@@ -9,27 +9,3 @@ body {
 background-image: linear-gradient(90deg, #FFE53B 0%, #FF2525 74%);
 
 }
-
-
-
-
-
-
-
-ul{
-   background-color: rgb(2, 147, 176);
-   color: rgb(0, 0, 0);
-   
-}
-
-ol{
-   background-color: rgb(2, 147, 176);
-   color: rgb(0, 0, 0);
-   
-}
-
-li {
-font-size: 60px;
-gap: 30px;
-
-}
